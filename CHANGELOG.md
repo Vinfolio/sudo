@@ -1,3 +1,7 @@
+## v2.1.3vf:
+
+* Add setenv support
+
 ## v2.1.2:
 
 ### Bug
